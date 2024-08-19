@@ -5,6 +5,11 @@
 ###### 인원 : 5명
 ###### 기간 : 2024-05 ~ 2024-06
 
+#### 😊 My Role
+###### - 기획(함께), 백엔드(chatting), 프론트엔드, 발표, 배포
+
+<br>
+
 ## 💼 주요 기능 소개
 
 ### 📑 자가 진단 테스트
@@ -54,53 +59,3 @@
 
 <br>
 
-
-## 📌 Process & Role
-#### Overall Process
-###### - 기획(함께), 디자인, 백엔드, 프론트엔트, 데이터 전처리, AI모델, PPT, 발표, 배포
-#### 😊 My Role
-###### - 기획(함께), 디자인, 백엔드, 프론트엔드, 발표, 배포
-
-<br>
-
-## 📌 IA
-<img src="https://github.com/user-attachments/assets/dd05be85-a194-4b68-b086-3447baf93171">
-
-<br>
-<br>
-
-## 📌 기능
-1. 판례문 조회
-2. AI 산재 판별
-3. 금액 계산
-4. 노무사 추천
-5. 유사한 판례 확인
-
-<br>
-
-## 📌 활용방안 및 기대효과
-<img src="https://github.com/user-attachments/assets/cec44276-95ea-4f9c-8f01-cf2dcb475884">
-<img src="https://github.com/user-attachments/assets/2e1bc7af-ef0e-41a6-848c-d7939853612c">
-
-<br>
-<br>
-
-## 📌 시연영상
- 
-### 메인
-<details>
-<summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/c1c4b74c-f979-48c1-b372-b71deb356e30">
-</details>
-
-### 판례문 검색
-<details>
-<summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/f791b0ca-41ad-4123-a920-792355a2bf07">
-</details>
-
-### AI 산재 판별
-<details>
-<summary>보기</summary>
-<img src="https://github.com/user-attachments/assets/56f0bc96-67ac-40bd-a524-6d86af94c2da">
-</details>
