@@ -52,6 +52,7 @@
 <img src="https://github.com/user-attachments/assets/253f67e5-a72a-428f-a4b9-7297851e213c">
    
 <br>
+
 ### 앱 정보
 <img src="https://github.com/user-attachments/assets/6b40effa-2e9b-4a74-93ed-031b58118d79">
 <img src="https://github.com/user-attachments/assets/a14ce05e-9f2d-48f1-85b1-a918037f9093">
